@@ -1,0 +1,6 @@
+[submodule "credit card fraud detection system"]
+	path = credit card fraud detection system
+	url = https://github.com/mand0058/credit-card-fraud-detection-system.git
+[submodule "sentiment-analysis"]
+	path = sentiment-analysis
+	url = https://github.com/mand0058/sentiment-analysis.git
